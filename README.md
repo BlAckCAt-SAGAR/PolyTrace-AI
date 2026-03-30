@@ -43,18 +43,17 @@ The system is particularly useful for debugging, impact analysis, and understand
 
 ## Project Structure
 
-
+```
 PolyTrace-AI/
-│── src/ # Core source code
-│── parser/ # Code parsing modules
-│── analyzer/ # Dependency and logic analysis
-│── graph/ # Graph generation and visualization
-│── utils/ # Helper functions
-│── main.py # Entry point
-│── requirements.txt # Dependencies
-│── README.md # Documentation
-
-
+│── src/                # Core source code
+│── parser/             # Code parsing modules
+│── analyzer/           # Dependency and logic analysis
+│── graph/              # Graph generation and visualization
+│── utils/              # Helper functions
+│── main.py             # Entry point
+│── requirements.txt    # Dependencies
+│── README.md           # Documentation
+```
 ---
 
 ## Installation and Setup
