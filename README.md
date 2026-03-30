@@ -64,9 +64,13 @@ PolyTrace-AI/
 ```bash
 git clone https://github.com/BlAckCAt-SAGAR/PolyTrace-AI.git
 cd PolyTrace-AI
+```
 Install Dependencies
+```
 pip install -r requirements.txt
+```
 Run the Project
+```
 python main.py
 ```
 Modify commands as per your project configuration.
@@ -106,7 +110,3 @@ License
 
 This project is open-source and available under the MIT License.
 
-Author
-
-Sagar Mahadeo Unhale
-MIT ADT University
